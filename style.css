@@ -1,7 +1,7 @@
 /**********************************************
 *** GENERAL
 **********************************************/
-
+/*the new modification */
 * {
     margin: 0;
     padding: 0;
@@ -137,7 +137,7 @@ i {
     transition: margin 0.3s;
 }
 
-.btn-new { top: 45px;}
+.btn-new { top: 44px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
 
